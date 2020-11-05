@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/The Observer Pattern.iml" filepath="$PROJECT_DIR$/The Observer Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The Weather Station/The Weather Station.iml" filepath="$PROJECT_DIR$/The Weather Station/The Weather Station.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The Weather Station with Observable API/The Weather Station with Observable API.iml" filepath="$PROJECT_DIR$/The Weather Station with Observable API/The Weather Station with Observable API.iml" />
     </modules>
   </component>
 </project>
